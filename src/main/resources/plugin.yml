@@ -1,0 +1,8 @@
+name: EnderPoisonousPotatos
+version: '0.0.1'
+main: net.endkind.enderPoisonousPotatos.EnderPoisonousPotatos
+api-version: '1.20'
+prefix: EnderPoisonousPotatos
+authors: [ Endkind Ender ]
+description: Enables crafting poisonous potatoes in the furnace, complete with customizable sound, particle effects, and success rate.
+website: https://www.endkind.net

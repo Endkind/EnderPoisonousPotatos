@@ -1,0 +1,18 @@
+version: 1
+
+prefix:
+  name: 'EnderPoisonousPotatos'
+  color: '#6400d4'
+  useArrow: true
+
+percent: 0.5
+experience: 1.0
+cookingTime: 400
+
+sound:
+  success: "entity.witch.celebrate"
+  failed: ""
+
+particle:
+  success: "smoke"
+  failed: ""
